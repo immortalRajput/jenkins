@@ -1,4 +1,4 @@
 def call ()
 {
-git branch: 'main'  , url: 'https://github.com/immortalRajput/webapp.git'
+git branch: 'master'  , url: 'https://github.com/immortalRajput/webapp.git'
 }
